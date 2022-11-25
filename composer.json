@@ -1,0 +1,15 @@
+{
+    "name": "viktoriias1/hello-world",
+    "autoload": {
+        "psr-4": {
+            "Viktoriias1\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viktoriias1",
+            "email": "vsol10@yandex.ru"
+        }
+    ],
+    "require": {}
+}
